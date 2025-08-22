@@ -1,0 +1,8 @@
+**/*.json
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.session
+**/**/set_*.json
+!.gitignore
+**/**/*.json
